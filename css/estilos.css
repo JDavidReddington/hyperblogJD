@@ -38,3 +38,10 @@ body{
     {
         padding:1em
     }
+    h2
+    {
+        color: green;
+        background-color: crimson;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 40px;
+    }
