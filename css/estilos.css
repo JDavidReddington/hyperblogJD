@@ -45,3 +45,12 @@ body{
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         font-size: 40px;
     }
+    #imagen {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .video-container {
+        display: flex;
+        justify-content: center;
+    }
